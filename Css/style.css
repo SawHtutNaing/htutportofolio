@@ -378,7 +378,7 @@ header {
 /* footer */
 footer {
   padding: 70px 15px;
-  background-color: #01143e;
+  
 }
 
 .footer-logo {
@@ -410,7 +410,7 @@ footer {
 }
 
 .copyright {
-  background-color: #01143e;
+  
   border-top: 1px solid #423940;
   padding: 15px;
 }
